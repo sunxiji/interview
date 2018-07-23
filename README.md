@@ -7,14 +7,14 @@ hadyang/interview
 > 转载 https://github.com/hadyang/interview
 ## 目录
 
-* [计算机基础](https://github.com/hadyang/interview/blob/basic/README.md)
-    * [计算机网络](https://github.com/hadyang/interview/blob/basic/net/README.md)
-        * [网络分层](https://github.com/hadyang/interview/blob/basic/net/osi.md)
-        * [底层网络协议](https://github.com/hadyang/interview/blob/basic/net/base_protocol.md)
-        * [TCP](https://github.com/hadyang/interview/blob/basic/net/tcp.md)
-        * [IP](https://github.com/hadyang/interview/blob/basic/net/ip.md)
-        * [HTTP](https://github.com/hadyang/interview/blob/basic/net/http.md)
-        * [面试题](https://github.com/hadyang/interview/blob/basic/net/questions.md)
+* [计算机基础](https://github.com/hadyang/interview/blob/master/basic/README.md)
+    * [计算机网络](https://github.com/hadyang/interview/blob/master/basic/net/README.md)
+        * [网络分层](https://github.com/hadyang/interview/blob/master/basic/net/osi.md)
+        * [底层网络协议](https://github.com/hadyang/interview/blob/master/basic/net/base_protocol.md)
+        * [TCP](https://github.com/hadyang/interview/blob/basic/master/net/tcp.md)
+        * [IP](https://github.com/hadyang/interview/blob/basic/master/net/ip.md)
+        * [HTTP](https://github.com/hadyang/interview/blob/basic/master/net/http.md)
+        * [面试题](https://github.com/hadyang/interview/blob/basic/master/net/questions.md)
     * [数据结构与算法](https://github.com/hadyang/interview/blob/basic/algo/README.md)
         * [树](https://github.com/hadyang/interview/blob/basic/algo/tree.md)
         * [Hash](https://github.com/hadyang/interview/blob/basic/algo/hash.md)
